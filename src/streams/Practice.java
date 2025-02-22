@@ -7,19 +7,19 @@ import java.util.stream.Stream;
 public class Practice {
 
     public static void main(String[] args) {
-        averageOfList();
-        toLowerCaseAndUpperCaseList();
-        sumOfEvenNos();
-        removeDuplicate();
-        numberOfStringWithLetter();
-        sortListAsc();
-        sortListStringAsc();
-        maxElementList();
-        secondMaxElementList();
-        firstElementInTheStream();
-        countCharInString();
-        countSubString();
-        duplicateElementInString();
+//        averageOfList();
+//        toLowerCaseAndUpperCaseList();
+//        sumOfEvenNos();
+//        removeDuplicate();
+//        numberOfStringWithLetter();
+//        sortListAsc();
+//        sortListStringAsc();
+//        maxElementList();
+//        secondMaxElementList();
+//        firstElementInTheStream();
+//        countCharInString();
+//        countSubString();
+//        duplicateElementInString();
         reduceExample();
     }
 
